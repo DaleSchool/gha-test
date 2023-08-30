@@ -1,6 +1,6 @@
 {
   "name": "@dale.seo/test23",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": "github:DaleSchool/gha-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
