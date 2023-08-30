@@ -36,8 +36,5 @@
   },
   "devDependencies": {
     "semantic-release": "^21.1.1"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
